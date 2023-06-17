@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de8781c8-dc5a-47cb-813b-bfe15fbcfb87" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/shop_korean_merch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/shop_korean_merch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687006950118</updated>
-      <workItem from="1687006951536" duration="3245000" />
+      <workItem from="1687006951536" duration="3491000" />
     </task>
     <servers />
   </component>
